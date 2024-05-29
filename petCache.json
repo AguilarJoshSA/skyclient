@@ -1,0 +1,55 @@
+{
+  "petMap": {
+    "0": {
+      "petType": "GRANDMA_WOLF",
+      "rarity": "LEGENDARY",
+      "petLevel": {
+        "currentLevel": 1,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 660,
+        "expRequiredForMaxLevel": 25353230,
+        "expInCurrentLevel": 0.0,
+        "expTotal": 0.0,
+        "percentageToNextLevel": 0.0
+      },
+      "petXpType": "combat",
+      "candyUsed": 0
+    },
+    "1": {
+      "petType": "SHEEP",
+      "rarity": "EPIC",
+      "petLevel": {
+        "currentLevel": 49,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 35200,
+        "expRequiredForMaxLevel": 18608500,
+        "expInCurrentLevel": 19465.531,
+        "expTotal": 387265.53,
+        "percentageToNextLevel": 0.55299807
+      },
+      "petXpType": "alchemy",
+      "petItem": "PET_ITEM_TEXTBOOK",
+      "candyUsed": 0
+    },
+    "2": {
+      "petType": "GRIFFIN",
+      "rarity": "COMMON",
+      "petLevel": {
+        "currentLevel": 54,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 13300,
+        "expRequiredForMaxLevel": 5624785,
+        "expInCurrentLevel": 2809.4375,
+        "expTotal": 133294.44,
+        "percentageToNextLevel": 0.2112359
+      },
+      "petXpType": "combat",
+      "petItem": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
+      "candyUsed": 0
+    }
+  },
+  "selectedPet": 1,
+  "selectedPet2": 2,
+  "tamingLevel": 1,
+  "beastMultiplier": 0.0
+}
